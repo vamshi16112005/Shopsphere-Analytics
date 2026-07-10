@@ -1,1 +1,1 @@
-# Shopphere-Analytics
+# ShopSphere-Analytics
